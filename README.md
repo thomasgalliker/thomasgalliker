@@ -1,4 +1,4 @@
-### 💬 About me 
+### 💬 About 
 C# software developer for customers in various industries. Recent examples include several mobile apps including web backends, a real-time application for a blood diagnostics analyzer and a structured products trading platform.
 
 Specialties: Xamarin, WPF, ASP.NET Core, Entity Framework Core, Software architecture
