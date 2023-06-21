@@ -21,6 +21,6 @@ C# software developer for customers in various industries. Recent projects inclu
 
 #### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomasgalliker) 
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow)](https://www.linkedin.com/in/thomasgalliker)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/3090156/thomasgalliker)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasgalliker&show_icons=true&hide=contribs,issues,prs)
