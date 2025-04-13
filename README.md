@@ -1,6 +1,10 @@
 ### 💬 About 
 C# software developer for customers in various industries. Recent projects include mobile apps, backend services and web APIs.
 
+<a href="https://www.buymeacoffee.com/thomasgalliker" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JoQ1MeS.md.png"  alt="buymeacoffee-yellow-badge" style="width: 104px;">
+</a>
+
 #### Working Skills
 ![C# .NET](https://img.shields.io/badge/.NET-blueviolet?style=flat-square&logo=csharp) 
 ![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-blueviolet?style=flat-square) 
