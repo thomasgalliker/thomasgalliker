@@ -17,11 +17,12 @@ C# software developer for customers in various industries. Recent projects inclu
 
 #### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio) 
+![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-gray?style=flat-square&logo=rider) 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudio) 
 ![MSSQL](https://img.shields.io/badge/MS%20SQL-gray?style=flat-square&logo=microsoftsqlserver) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-darkgreen?style=flat-square&logo=androidstudio) 
 ![XCode](https://img.shields.io/badge/Xcode-darkblue?style=flat-square&logo=xcode) 
-![Notepad++](https://img.shields.io/badge/Notepad++-gray?style=flat-square&logo=notepadplusplus) 
+![Notepad++](https://img.shields.io/badge/Notepad++-gray?style=flat-square&logo=notepadplusplus)
 
 #### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thomasgalliker) 
